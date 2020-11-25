@@ -7,5 +7,5 @@
 
     Открыть архиватором(winrar, Engrampa Archive Manager, 7z) jar архив мода. 
 
-    Заменить файлы локализации в архиве по адресу /wariomodResources/localization/eng/ файлами отсюда.
+    Заменить JSON файлы локализации в архиве по адресу /wariomodResources/localization/eng/ файлами отсюда.
   
