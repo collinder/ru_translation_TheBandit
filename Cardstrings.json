@@ -129,7 +129,7 @@
     "DESCRIPTION": "Отнимает 1 Силу. NL Трансформирует !M! случайных пустых полей в wariomod:Поля_Силы. NL Сжигается."
   },
   "wariomod:f": {
-    "NAME": "f",
+    "NAME": "F",
     "DESCRIPTION": "Дает !B! Защиты. NL Наносит !D! урона. NL Трансформирует 2 случайных поля в wariomod:Поля_Рока."
   },
   "wariomod:TheGrandJourney": {
