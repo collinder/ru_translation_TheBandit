@@ -9,6 +9,10 @@
 
     Заменить JSON файлы локализации в архиве по адресу /wariomodResources/localization/eng/ файлами отсюда.
     
-Гуглодок с остальными переводами(будет обновляться): https://docs.google.com/spreadsheets/d/1pwgnPj1YE-3Tde4IunSft4QfezZ2u-fpQOU8X2C83RQ   
+
+
+Сам мод: https://steamcommunity.com/sharedfiles/filedetails/?id=1609846039
+
+Гуглодок с остальными переводами: https://docs.google.com/spreadsheets/d/1pwgnPj1YE-3Tde4IunSft4QfezZ2u-fpQOU8X2C83RQ   
    
   
