@@ -1,5 +1,5 @@
 # ru_translation_TheBandit
-Русский перевод для мода Slay the Spire под названием TheBandit
+Русский перевод для мода Slay the Spire под названием TheBandit от автора Vex'd#2468
 
 Инструкция по установке
 
